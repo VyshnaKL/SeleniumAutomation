@@ -21,7 +21,7 @@ public class BaseClass {
 		 System.out.println(" title are eqaul");
 	 }
 	 else {
-		 System.out.println(" title not equal");
+		 System.out.println(" TITLE not equal");
 	 }
 	}
  public void getURLcommand() {
